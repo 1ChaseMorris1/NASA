@@ -1133,3 +1133,141 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.16-16.59.17:491][810]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
 [2021.11.16-16.59.17:491][810]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 8 (Closing connection 3)
 [2021.11.16-16.59.17:491][810]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B515958FE-4132-18F7-E44E-E585E474B114%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=7ec4013d43cec817d55770a2c16903b2%7C08d24886948a425d8875ad75598cd873%7C50f05884-b7a0-4aa3-b88a-6a6cb5f9f875&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2021.11.16-17.01.17:910][170]LogHttp: Warning: 0000026FD2BCC100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B515958FE-4132-18F7-E44E-E585E474B114%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=7ec4013d43cec817d55770a2c16903b2%7C08d24886948a425d8875ad75598cd873%7C50f05884-b7a0-4aa3-b88a-6a6cb5f9f875&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.16-17.01.17:910][170]LogHttp: Warning: 0000026FD2BCC100: request failed, libcurl error: 35 (SSL connect error)
+[2021.11.16-17.01.17:910][170]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2021.11.16-17.01.17:910][170]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 1 (  Trying 107.20.190.80...)
+[2021.11.16-17.01.17:910][170]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 2 (TCP_NODELAY set)
+[2021.11.16-17.01.17:910][170]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (107.20.190.80) port 443 (#4))
+[2021.11.16-17.01.17:910][170]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2021.11.16-17.01.17:910][170]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2021.11.16-17.01.17:910][170]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2021.11.16-17.01.17:910][170]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2021.11.16-17.01.17:910][170]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 8 (Closing connection 4)
+[2021.11.16-17.01.17:910][170]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B515958FE-4132-18F7-E44E-E585E474B114%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=7ec4013d43cec817d55770a2c16903b2%7C08d24886948a425d8875ad75598cd873%7C50f05884-b7a0-4aa3-b88a-6a6cb5f9f875&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2021.11.16-17.03.18:257][530]LogHttp: Warning: 0000026FD2BCC100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B515958FE-4132-18F7-E44E-E585E474B114%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=7ec4013d43cec817d55770a2c16903b2%7C08d24886948a425d8875ad75598cd873%7C50f05884-b7a0-4aa3-b88a-6a6cb5f9f875&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.16-17.03.18:257][530]LogHttp: Warning: 0000026FD2BCC100: request failed, libcurl error: 35 (SSL connect error)
+[2021.11.16-17.03.18:257][530]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2021.11.16-17.03.18:257][530]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 1 (  Trying 54.156.0.191...)
+[2021.11.16-17.03.18:257][530]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 2 (TCP_NODELAY set)
+[2021.11.16-17.03.18:257][530]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.156.0.191) port 443 (#5))
+[2021.11.16-17.03.18:257][530]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2021.11.16-17.03.18:257][530]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2021.11.16-17.03.18:257][530]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2021.11.16-17.03.18:257][530]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2021.11.16-17.03.18:257][530]LogHttp: Warning: 0000026FD2BCC100: libcurl info message cache 8 (Closing connection 5)
+[2021.11.16-17.03.18:257][530]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B515958FE-4132-18F7-E44E-E585E474B114%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=7ec4013d43cec817d55770a2c16903b2%7C08d24886948a425d8875ad75598cd873%7C50f05884-b7a0-4aa3-b88a-6a6cb5f9f875&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2021.11.16-17.05.11:719][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.11.16-17.05.12:425][868]LogSavePackage: Moving '../../../../../../Users/campbell59763/Documents/GitHub/NASA/NASA_Project_1/Saved/NASA_Project_1_Auto14C2F2DAC450014B10ECE389D0EC8836A.tmp' to '../../../../../../Users/campbell59763/Documents/GitHub/NASA/NASA_Project_1/Saved/Autosaves/Game/NASA_Project_1_Auto1.umap'
+[2021.11.16-17.05.12:541][868]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NASA_Project_1' took 0.845
+[2021.11.16-17.05.12:541][868]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.845
+[2021.11.16-17.05.18:666][888]LogHttp: Warning: 000002702A315D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B515958FE-4132-18F7-E44E-E585E474B114%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=7ec4013d43cec817d55770a2c16903b2%7C08d24886948a425d8875ad75598cd873%7C50f05884-b7a0-4aa3-b88a-6a6cb5f9f875&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.16-17.05.18:666][888]LogHttp: Warning: 000002702A315D00: request failed, libcurl error: 35 (SSL connect error)
+[2021.11.16-17.05.18:666][888]LogHttp: Warning: 000002702A315D00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2021.11.16-17.05.18:666][888]LogHttp: Warning: 000002702A315D00: libcurl info message cache 1 (  Trying 107.21.229.35...)
+[2021.11.16-17.05.18:666][888]LogHttp: Warning: 000002702A315D00: libcurl info message cache 2 (TCP_NODELAY set)
+[2021.11.16-17.05.18:666][888]LogHttp: Warning: 000002702A315D00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (107.21.229.35) port 443 (#6))
+[2021.11.16-17.05.18:666][888]LogHttp: Warning: 000002702A315D00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2021.11.16-17.05.18:667][888]LogHttp: Warning: 000002702A315D00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2021.11.16-17.05.18:667][888]LogHttp: Warning: 000002702A315D00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2021.11.16-17.05.18:667][888]LogHttp: Warning: 000002702A315D00: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2021.11.16-17.05.18:667][888]LogHttp: Warning: 000002702A315D00: libcurl info message cache 8 (Closing connection 6)
+[2021.11.16-17.05.18:667][888]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B515958FE-4132-18F7-E44E-E585E474B114%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=7ec4013d43cec817d55770a2c16903b2%7C08d24886948a425d8875ad75598cd873%7C50f05884-b7a0-4aa3-b88a-6a6cb5f9f875&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2021.11.16-17.06.59:590][200]LogAssetEditorSubsystem: Opening Asset editor for World /Game/NASA_Project_1.NASA_Project_1
+[2021.11.16-17.06.59:609][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.11.16-17.07.01:668][200]LogSlate: Window 'Save Content' being destroyed
+[2021.11.16-17.07.01:827][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.11.16-17.07.01:934][200]LogSavePackage: Moving '../../../../../../Users/campbell59763/Documents/GitHub/NASA/NASA_Project_1/Saved/NASA_Project_18BEAD4E64ACBFC8C2F69809FDD8BA408.tmp' to '../../../../../../Users/campbell59763/Documents/GitHub/NASA/NASA_Project_1/Content/NASA_Project_1.umap'
+[2021.11.16-17.07.01:972][200]LogFileHelpers: Saving map 'NASA_Project_1' took 0.201
+[2021.11.16-17.07.01:973][200]Cmd: MAP LOAD FILE="../../../../../../Users/campbell59763/Documents/GitHub/NASA/NASA_Project_1/Content/NASA_Project_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.16-17.07.01:973][200]LightingResults: New page: Lighting Build
+[2021.11.16-17.07.01:973][200]LoadErrors: New page: Loading map: NASA_Project_1.umap
+[2021.11.16-17.07.01:974][200]LogWorld: UWorld::CleanupWorld for NASA_Project_1, bSessionEnded=true, bCleanupResources=true
+[2021.11.16-17.07.01:974][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-17.07.01:974][200]MapCheck: New page: Map Check
+[2021.11.16-17.07.01:975][200]LightingResults: New page: Lighting Build
+[2021.11.16-17.07.01:993][200]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026FA48A65C0), frame # 7200
+[2021.11.16-17.07.01:993][200]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026FDD6A2600), frame # 7200
+[2021.11.16-17.07.01:995][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.11.16-17.07.02:007][200]LogAIModule: Creating AISystem for world NASA_Project_1
+[2021.11.16-17.07.02:007][200]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026FCAA6DC00), frame # 7200
+[2021.11.16-17.07.02:007][200]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027029A960C0), frame # 7200
+[2021.11.16-17.07.02:109][200]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.16-17.07.02:130][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.11.16-17.07.02:154][200]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.16-17.07.02:155][200]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.184ms to complete.
+[2021.11.16-17.07.02:155][200]LogFileHelpers: Loading map 'NASA_Project_1' took 0.182
+[2021.11.16-17.07.02:227][200]AssetCheck: New page: Asset Save: NASA_Project_1
+[2021.11.16-17.07.02:227][200]LogContentValidation: Display: Validating World /Game/NASA_Project_1.NASA_Project_1
+[2021.11.16-17.07.06:451][379]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.16-17.07.06:466][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.16-17.07.06:466][379]PIE: New page: PIE session: NASA_Project_1 (Nov 16, 2021, 7:07:06 AM)
+[2021.11.16-17.07.06:466][379]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NASA_Project_1
+[2021.11.16-17.07.06:469][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003127s)
+[2021.11.16-17.07.06:470][379]LogAIModule: Creating AISystem for world NASA_Project_1
+[2021.11.16-17.07.06:470][379]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026FC128B600), frame # 7379
+[2021.11.16-17.07.06:470][379]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002702A3ADE40), frame # 7379
+[2021.11.16-17.07.06:470][379]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2021.11.16-17.07.06:470][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NASA_Project_1.NASA_Project_1 to /Game/UEDPIE_0_NASA_Project_1.NASA_Project_1 (0.004299s)
+[2021.11.16-17.07.06:491][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.11.16-17.07.06:493][379]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.16-17.07.06:493][379]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.16-17.07.06:493][379]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.16-17.07.06:493][379]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.16-17.07.06:493][379]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.16-17.07.06:493][379]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.16-17.07.06:493][379]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.16-17.07.06:493][379]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.16-17.07.06:494][379]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.16-17.07.06:494][379]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.16-17.07.06:531][379]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-17.07.06:531][379]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-17.07.06:621][379]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.11.16-17.07.06:621][379]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.16-17.07.06:621][379]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.16-17.07.06:622][379]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.16-17.07.06:622][379]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.16-17.07.06:644][379]LogInit: FAudioDevice initialized.
+[2021.11.16-17.07.06:700][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.16-17.07.06:700][379]LogLoad: Game class is 'GameModeBase'
+[2021.11.16-17.07.06:705][379]LogWorld: Bringing World /Game/UEDPIE_0_NASA_Project_1.NASA_Project_1 up for play (max tick rate 0) at 2021.11.16-12.07.06
+[2021.11.16-17.07.06:706][379]LogWorld: Bringing up level for play took: 0.002558
+[2021.11.16-17.07.06:706][379]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.11.16-17.07.06:720][379]PIE: Server logged in
+[2021.11.16-17.07.06:724][379]PIE: Play in editor total start time 0.26 seconds.
+[2021.11.16-17.07.14:754][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.16-17.07.14:754][515]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NASA_Project_1
+[2021.11.16-17.07.14:755][515]LogSlate: Window 'NASA Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.11.16-17.07.14:854][515]LogWorld: UWorld::CleanupWorld for NASA_Project_1, bSessionEnded=true, bCleanupResources=true
+[2021.11.16-17.07.14:855][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-17.07.14:909][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.16-17.07.14:914][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-17.07.14:954][515]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002702A3ADE40), frame # 7515
+[2021.11.16-17.07.14:954][515]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026FC128B600), frame # 7515
+[2021.11.16-17.07.14:956][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.11.16-17.07.14:980][516]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.11.16-17.07.18:792][602]LogHttp: Warning: 000002702D59F900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B515958FE-4132-18F7-E44E-E585E474B114%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=7ec4013d43cec817d55770a2c16903b2%7C08d24886948a425d8875ad75598cd873%7C50f05884-b7a0-4aa3-b88a-6a6cb5f9f875&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.16-17.07.18:792][602]LogHttp: Warning: 000002702D59F900: request failed, libcurl error: 35 (SSL connect error)
+[2021.11.16-17.07.18:792][602]LogHttp: Warning: 000002702D59F900: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2021.11.16-17.07.18:792][602]LogHttp: Warning: 000002702D59F900: libcurl info message cache 1 (  Trying 52.86.4.116...)
+[2021.11.16-17.07.18:792][602]LogHttp: Warning: 000002702D59F900: libcurl info message cache 2 (TCP_NODELAY set)
+[2021.11.16-17.07.18:792][602]LogHttp: Warning: 000002702D59F900: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.86.4.116) port 443 (#7))
+[2021.11.16-17.07.18:792][602]LogHttp: Warning: 000002702D59F900: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2021.11.16-17.07.18:792][602]LogHttp: Warning: 000002702D59F900: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2021.11.16-17.07.18:792][602]LogHttp: Warning: 000002702D59F900: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2021.11.16-17.07.18:792][602]LogHttp: Warning: 000002702D59F900: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2021.11.16-17.07.18:792][602]LogHttp: Warning: 000002702D59F900: libcurl info message cache 8 (Closing connection 7)
+[2021.11.16-17.07.18:793][602]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B515958FE-4132-18F7-E44E-E585E474B114%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=7ec4013d43cec817d55770a2c16903b2%7C08d24886948a425d8875ad75598cd873%7C50f05884-b7a0-4aa3-b88a-6a6cb5f9f875&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2021.11.16-17.07.19:555][617]Cmd: SELECT NONE
+[2021.11.16-17.09.19:437][382]LogHttp: Warning: 000002702D192400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B515958FE-4132-18F7-E44E-E585E474B114%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=7ec4013d43cec817d55770a2c16903b2%7C08d24886948a425d8875ad75598cd873%7C50f05884-b7a0-4aa3-b88a-6a6cb5f9f875&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.16-17.09.19:438][382]LogHttp: Warning: 000002702D192400: request failed, libcurl error: 35 (SSL connect error)
+[2021.11.16-17.09.19:438][382]LogHttp: Warning: 000002702D192400: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2021.11.16-17.09.19:438][382]LogHttp: Warning: 000002702D192400: libcurl info message cache 1 (  Trying 34.226.135.102...)
+[2021.11.16-17.09.19:438][382]LogHttp: Warning: 000002702D192400: libcurl info message cache 2 (TCP_NODELAY set)
+[2021.11.16-17.09.19:438][382]LogHttp: Warning: 000002702D192400: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.226.135.102) port 443 (#8))
+[2021.11.16-17.09.19:438][382]LogHttp: Warning: 000002702D192400: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2021.11.16-17.09.19:438][382]LogHttp: Warning: 000002702D192400: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2021.11.16-17.09.19:438][382]LogHttp: Warning: 000002702D192400: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2021.11.16-17.09.19:438][382]LogHttp: Warning: 000002702D192400: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2021.11.16-17.09.19:439][382]LogHttp: Warning: 000002702D192400: libcurl info message cache 8 (Closing connection 8)
+[2021.11.16-17.09.19:439][382]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B515958FE-4132-18F7-E44E-E585E474B114%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=7ec4013d43cec817d55770a2c16903b2%7C08d24886948a425d8875ad75598cd873%7C50f05884-b7a0-4aa3-b88a-6a6cb5f9f875&AppEnvironment=datacollector-source&UploadType=eteventstream
