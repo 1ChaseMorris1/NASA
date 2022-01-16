@@ -1,0 +1,1326 @@
+﻿Log file open, 12/30/21 21:09:10
+LogInit: Display: Running engine for game: NASA
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.156379
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.44.0
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Engine.ini]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.AnisotropicBRDF:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2021.12.31-02.09.11:534][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Engine.ini]
+[2021.12.31-02.09.11:535][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Engine.ini]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Engine.ini]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.31-02.09.11:535][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Engine.ini]
+[2021.12.31-02.09.11:535][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Engine.ini]
+[2021.12.31-02.09.11:537][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-02.09.11:537][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.31-02.09.11:537][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.31-02.09.11:537][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-02.09.11:537][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.12.31-02.09.11:538][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.31-02.09.11:538][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.31-02.09.11:538][  0]LogHAL: Display: Platform has ~ 16 GB [17102516224 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.31-02.09.11:538][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.31-02.09.11:538][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.31-02.09.11:538][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Scalability.ini]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.12.31-02.09.11:539][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.31-02.09.11:540][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.31-02.09.11:540][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.31-02.09.11:540][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.31-02.09.11:540][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Config/Windows/Engine.ini]
+[2021.12.31-02.09.11:540][  0]LogInit: Computer: DESKTOP-NH668U8
+[2021.12.31-02.09.11:540][  0]LogInit: User: Jayden
+[2021.12.31-02.09.11:540][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.12.31-02.09.11:540][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.31-02.09.11:540][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.12.31-02.09.11:540][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.31-02.09.11:540][  0]LogMemory: Process Physical Memory: 119.49 MB used, 119.49 MB peak
+[2021.12.31-02.09.11:540][  0]LogMemory: Process Virtual Memory: 101.45 MB used, 101.45 MB peak
+[2021.12.31-02.09.11:540][  0]LogMemory: Physical Memory: 8369.03 MB used,  7941.20 MB free, 16310.23 MB total
+[2021.12.31-02.09.11:540][  0]LogMemory: Virtual Memory: 5208.92 MB used,  134212520.00 MB free, 134217728.00 MB total
+[2021.12.31-02.09.11:543][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.31-02.09.11:577][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.31-02.09.11:578][  0]LogInit: Using OS detected language (en-US).
+[2021.12.31-02.09.11:578][  0]LogInit: Using OS detected locale (en-US).
+[2021.12.31-02.09.11:580][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.12.31-02.09.11:697][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.31-02.09.11:717][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.31-02.09.11:717][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.31-02.09.11:879][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.12.31-02.09.11:879][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.31-02.09.11:879][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.31-02.09.11:879][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.31-02.09.11:949][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060' (Feature Level 11_0)
+[2021.12.31-02.09.11:949][  0]LogD3D11RHI:       12143/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.12.31-02.09.11:951][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.31-02.09.11:951][  0]LogD3D11RHI:       0/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.31-02.09.11:951][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.12.31-02.09.11:957][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.31-02.09.11:957][  0]LogD3D11RHI:     GPU DeviceId: 0x2503 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.31-02.09.11:957][  0]LogWindows: EnumDisplayDevices:
+[2021.12.31-02.09.11:957][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:0 D:1)
+[2021.12.31-02.09.11:957][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:1 D:1)
+[2021.12.31-02.09.11:957][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.12.31-02.09.11:957][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.12.31-02.09.11:957][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.12.31-02.09.11:957][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2021.12.31-02.09.11:957][  0]LogD3D11RHI:   Driver Version: 466.11 (internal:27.21.14.6611, unified:466.11)
+[2021.12.31-02.09.11:957][  0]LogD3D11RHI:      Driver Date: 4-12-2021
+[2021.12.31-02.09.11:958][  0]LogRHI: Texture pool is 8500 MB (70% of 12143 MB)
+[2021.12.31-02.09.12:019][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.31-02.09.12:019][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.31-02.09.12:019][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.31-02.09.12:032][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.12.31-02.09.12:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.31-02.09.12:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.31-02.09.12:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.31-02.09.12:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.31-02.09.12:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.31-02.09.12:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.31-02.09.12:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.31-02.09.12:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.31-02.09.12:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.31-02.09.12:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.31-02.09.12:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.31-02.09.12:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.31-02.09.12:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.31-02.09.12:271][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.31-02.09.12:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.31-02.09.12:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.31-02.09.12:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.31-02.09.12:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.31-02.09.12:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.31-02.09.12:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.31-02.09.12:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.31-02.09.12:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.31-02.09.12:353][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.31-02.09.12:353][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.31-02.09.12:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.31-02.09.12:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.31-02.09.12:377][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.31-02.09.12:384][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.31-02.09.12:384][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.31-02.09.12:390][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.31-02.09.12:432][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Intermediate/Shaders/WorkingDirectory/19100/).
+[2021.12.31-02.09.12:432][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jayden/AppData/Local/Temp/UnrealShaderWorkingDir/06FA23D94DC774FE5723E8A4F4E79814/'.
+[2021.12.31-02.09.12:433][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2021.12.31-02.09.12:970][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.31-02.09.13:001][  0]LogDerivedDataCache: Loaded boot cache 0.03s 79MB C:/Users/Jayden/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.12.31-02.09.13:001][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jayden/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.12.31-02.09.13:001][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.31-02.09.13:001][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.31-02.09.13:001][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.31-02.09.13:001][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.31-02.09.13:009][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.31-02.09.13:009][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.31-02.09.13:009][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.31-02.09.13:010][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jayden/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.31-02.09.13:010][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.31-02.09.13:010][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.31-02.09.13:046][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.31-02.09.13:046][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.31-02.09.13:061][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.12.31-02.09.13:227][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.31-02.09.13:304][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.31-02.09.13:304][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.31-02.09.13:304][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.31-02.09.13:304][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.31-02.09.13:304][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.31-02.09.13:315][  0]LogNetVersion: NASA 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 932760915)
+[2021.12.31-02.09.13:582][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001F3CE678340), frame # 0
+[2021.12.31-02.09.13:582][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F3CE5E47C0), frame # 0
+[2021.12.31-02.09.13:583][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F3CE609E00), frame # 0
+[2021.12.31-02.09.13:617][  0]LogPackageLocalizationCache: Processed 20 localized package path(s) for 1 prioritized culture(s) in 0.029256 seconds
+[2021.12.31-02.09.13:620][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.12.31-02.09.13:620][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.12.31-02.09.13:620][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.31-02.09.13:870][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.31-02.09.13:872][  0]LogUdpMessaging: Initializing bridge on interface 172.19.10.213:0 to multicast group 230.0.0.1:6666.
+[2021.12.31-02.09.13:872][  0]FUdpSocketBuilder: Failed to bind UdpMessageUnicastSocket to 172.19.10.213:0
+[2021.12.31-02.09.13:872][  0]FUdpSocketBuilder: Failed to configure multicast for UdpMessageUnicastSocket (loopback: 1, ttl: 1)
+[2021.12.31-02.09.13:872][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageUnicastSocket (last error: 0)
+[2021.12.31-02.09.13:872][  0]LogUdpMessaging: Error: StartTransport failed to create unicast socket on 172.19.10.213:0
+[2021.12.31-02.09.13:978][  0]SourceControl: Source control is disabled
+[2021.12.31-02.09.14:442][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.31-02.09.14:454][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.31-02.09.14:454][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.31-02.09.14:485][  0]LogOcInput: OculusInput pre-init called
+[2021.12.31-02.09.14:642][  0]LogEngine: Initializing Engine...
+[2021.12.31-02.09.14:692][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.12.31-02.09.14:692][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.31-02.09.14:693][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.12.31-02.09.14:767][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.31-02.09.14:773][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.31-02.09.14:773][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F3D7D7FC00), frame # 0
+[2021.12.31-02.09.14:773][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F3D7DE5440), frame # 0
+[2021.12.31-02.09.14:788][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.31-02.09.14:788][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.31-02.09.14:788][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.31-02.09.14:788][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.31-02.09.14:788][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.31-02.09.14:788][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.31-02.09.14:788][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.31-02.09.14:788][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.31-02.09.14:789][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.31-02.09.14:789][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.31-02.09.14:798][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.31-02.09.14:798][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.31-02.09.14:827][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.31-02.09.14:829][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.31-02.09.14:830][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.31-02.09.14:830][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.31-02.09.14:831][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.31-02.09.14:832][  0]LogInit: FAudioDevice initialized.
+[2021.12.31-02.09.14:832][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.31-02.09.14:864][  0]LogDerivedDataCache: Saved boot cache 0.03s 79MB C:/Users/Jayden/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.12.31-02.09.14:864][  0]LogInit: Texture streaming: Enabled
+[2021.12.31-02.09.14:875][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.31-02.09.14:875][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.31-02.09.14:876][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.31-02.09.14:907][  0]LogInit: Transaction tracking system initialized
+[2021.12.31-02.09.14:922][  0]BlueprintLog: New page: Editor Load
+[2021.12.31-02.09.14:966][  0]LocalizationService: Localization service is disabled
+[2021.12.31-02.09.15:072][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.12.31-02.09.15:072][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.31-02.09.15:160][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/' took 0.00s
+[2021.12.31-02.09.15:285][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.440
+[2021.12.31-02.09.15:285][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.31-02.09.15:289][  0]LightingResults: New page: Lighting Build
+[2021.12.31-02.09.15:290][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.31-02.09.15:290][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.09.15:290][  0]MapCheck: New page: Map Check
+[2021.12.31-02.09.15:290][  0]LightingResults: New page: Lighting Build
+[2021.12.31-02.09.15:300][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F3D7D7FC00), frame # 0
+[2021.12.31-02.09.15:300][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F3D7DE5440), frame # 0
+[2021.12.31-02.09.15:301][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.12.31-02.09.15:357][  0]LogLinker: Warning: While loading '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.12.31-02.09.15:357][  0]LogLinker: Warning: While loading '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.12.31-02.09.15:373][  0]LogLinker: Warning: While loading '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.12.31-02.09.15:373][  0]LogLinker: Warning: While loading '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.12.31-02.09.15:373][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.12.31-02.09.15:373][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.12.31-02.09.15:374][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.12.31-02.09.15:374][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.12.31-02.09.15:377][  0]LogLinker: Warning: While loading '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.12.31-02.09.15:377][  0]LoadErrors: Failed to load /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2021.12.31-02.09.15:377][  0]LogLinker: Warning: While loading '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.12.31-02.09.15:377][  0]LoadErrors: Failed to load /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2021.12.31-02.09.15:418][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.12.31-02.09.15:419][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F3D81D1000), frame # 0
+[2021.12.31-02.09.15:419][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F3D8852340), frame # 0
+[2021.12.31-02.09.15:425][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.31-02.09.15:433][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.12.31-02.09.15:434][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.31-02.09.15:434][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2021.12.31-02.09.15:434][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.149
+[2021.12.31-02.09.15:435][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.591
+[2021.12.31-02.09.15:576][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.09.15:581][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.09.15:586][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.09.15:590][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.09.15:597][  0]LogCollectionManager: Loaded 0 collections in 0.001651 seconds
+[2021.12.31-02.09.15:616][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Collections/' took 0.00s
+[2021.12.31-02.09.15:616][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/Developers/Jayden/Collections/' took 0.00s
+[2021.12.31-02.09.15:616][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/Collections/' took 0.00s
+[2021.12.31-02.09.15:616][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 3446 classes and 844 folders.
+[2021.12.31-02.09.15:620][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.12.31-02.09.15:837][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.12.31-02.09.15:839][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2021.12.31-02.09.15:927][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.31-02.09.15:928][  0]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.31-02.09.15:936][  0]LogSlate: Took 0.003971 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.31-02.09.15:998][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.12.31-02.09.16:041][  0]LogSlate: Took 0.003729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.31-02.09.16:072][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.31-02.09.16:072][  0]LogLoad: (Engine Initialization) Total time: 6.23 seconds
+[2021.12.31-02.09.16:072][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.31-02.09.16:174][  0]LogAssetRegistry: Asset discovery search completed in 3.1134 seconds
+[2021.12.31-02.09.16:177][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.12.31-02.09.16:179][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.31-02.09.16:318][  0]LogSlate: Took 0.005557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.31-02.09.18:644][262]LogSlate: Window 'Message Log' being destroyed
+[2021.12.31-02.09.18:646][262]LogSlate: Window 'Message Log' being destroyed
+[2021.12.31-02.15.06:952][544]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.31-02.15.06:971][544]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.12.31-02.15.07:221][544]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 125 classes and 0 folders.
+[2021.12.31-02.15.08:016][544]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.31-02.18.13:215][122]LogSlate: Took 0.003475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.31-02.20.01:387][901]LogSlate: Took 0.006390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.12.31-02.22.27:335][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.12.31-02.22.27:337][417]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.041
+[2021.12.31-02.22.27:337][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainWidget] ([1] browsable assets)...
+[2021.12.31-02.22.27:337][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainWidget]
+[2021.12.31-02.22.27:387][417]LogSavePackage: Moving '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/MainWidget_Auto1027DCC2343F5D54B1F6F40A59C81A5BD.tmp' to '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/Autosaves/Game/MainWidget_Auto1.uasset'
+[2021.12.31-02.22.27:388][417]LogFileHelpers: Auto-saving content packages took 0.051
+[2021.12.31-02.23.49:572][105]LogEditorTransaction: Undo Move Widget
+[2021.12.31-02.23.50:074][121]LogEditorTransaction: Undo Move Widget
+[2021.12.31-02.23.50:689][188]LogEditorTransaction: Undo Move Widget
+[2021.12.31-02.23.51:299][257]LogEditorTransaction: Undo Move Widget
+[2021.12.31-02.24.37:540][850]LogSlate: Took 0.003655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.12.31-02.26.26:765][739]BlueprintLog: New page: Compile MainWidget
+[2021.12.31-02.26.26:800][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.12.31-02.26.27:411][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainWidget" FILE="../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset" SILENT=true
+[2021.12.31-02.26.27:443][795]LogSavePackage: Moving '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/MainWidgetFAEDC1954DD862E26DD0D582E0D4E711.tmp' to '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset'
+[2021.12.31-02.26.27:452][795]AssetCheck: New page: Asset Save: MainWidget
+[2021.12.31-02.26.27:453][795]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.12.31-02.26.30:719][169]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainMenuMap.MainMenuMap
+[2021.12.31-02.26.30:738][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.12.31-02.26.30:739][169]Cmd: MAP LOAD FILE="../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.31-02.26.30:739][169]LightingResults: New page: Lighting Build
+[2021.12.31-02.26.30:741][169]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2021.12.31-02.26.30:776][169]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.12.31-02.26.30:776][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.26.30:776][169]MapCheck: New page: Map Check
+[2021.12.31-02.26.30:776][169]LightingResults: New page: Lighting Build
+[2021.12.31-02.26.30:792][169]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F3D81D1000), frame # 82169
+[2021.12.31-02.26.30:792][169]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F3D8852340), frame # 82169
+[2021.12.31-02.26.30:795][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.12.31-02.26.30:848][169]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.31-02.26.30:848][169]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.31-02.26.30:848][169]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F40B87CE00), frame # 82169
+[2021.12.31-02.26.30:848][169]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F411F0B740), frame # 82169
+[2021.12.31-02.26.30:866][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.12.31-02.26.30:880][169]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.31-02.26.30:880][169]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2021.12.31-02.26.30:880][169]LogFileHelpers: Loading map 'MainMenuMap' took 0.140
+[2021.12.31-02.26.31:614][250]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.31-02.26.31:623][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.31-02.26.31:623][250]PIE: New page: PIE session: MainMenuMap (Dec 30, 2021, 4:26:31 PM)
+[2021.12.31-02.26.31:625][250]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.31-02.26.31:625][250]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.31-02.26.31:625][250]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuMap
+[2021.12.31-02.26.31:626][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000650s)
+[2021.12.31-02.26.31:627][250]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.31-02.26.31:627][250]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F3F8EB7E00), frame # 82250
+[2021.12.31-02.26.31:627][250]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F4028F6980), frame # 82250
+[2021.12.31-02.26.31:627][250]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2021.12.31-02.26.31:627][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuMap.MainMenuMap to /Game/UEDPIE_0_MainMenuMap.MainMenuMap (0.001361s)
+[2021.12.31-02.26.31:644][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.12.31-02.26.31:645][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.31-02.26.31:645][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.31-02.26.31:645][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.31-02.26.31:645][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.31-02.26.31:645][250]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.31-02.26.31:645][250]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.31-02.26.31:645][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.31-02.26.31:645][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.31-02.26.31:645][250]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.31-02.26.31:645][250]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.31-02.26.31:648][250]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.31-02.26.31:648][250]LogAudioMixer: Display: 1: FrontRight
+[2021.12.31-02.26.31:663][250]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.31-02.26.31:663][250]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.31-02.26.31:663][250]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.31-02.26.31:663][250]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.31-02.26.31:663][250]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.31-02.26.31:672][250]LogInit: FAudioDevice initialized.
+[2021.12.31-02.26.31:725][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.26.31:725][250]LogLoad: Game class is 'MainMenuGM_C'
+[2021.12.31-02.26.31:726][250]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2021.12.30-21.26.31
+[2021.12.31-02.26.31:726][250]LogWorld: Bringing up level for play took: 0.000304
+[2021.12.31-02.26.31:726][250]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.12.31-02.26.31:736][250]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.12.31-02.26.31:741][250]PIE: Server logged in
+[2021.12.31-02.26.31:742][250]PIE: Play in editor total start time 0.119 seconds.
+[2021.12.31-02.26.31:766][251]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.12.31-02.26.41:511][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.26.41:512][397]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuMap
+[2021.12.31-02.26.41:512][397]LogSlate: Window 'NASA Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.12.31-02.26.41:545][397]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.31-02.26.41:545][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.26.41:548][397]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.31-02.26.41:552][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.26.41:590][397]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F4028F6980), frame # 83397
+[2021.12.31-02.26.41:590][397]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F3F8EB7E00), frame # 83397
+[2021.12.31-02.26.41:617][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.12.31-02.26.41:639][398]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.12.31-02.26.52:561][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainWidget" FILE="../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset" SILENT=true
+[2021.12.31-02.26.52:592][597]LogSavePackage: Moving '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/MainWidget913CEA904A4150AEC71B42BA279A0DF4.tmp' to '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset'
+[2021.12.31-02.26.52:601][597]AssetCheck: New page: Asset Save: MainWidget
+[2021.12.31-02.26.52:601][597]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.12.31-02.26.53:282][665]BlueprintLog: New page: Compile MainWidget
+[2021.12.31-02.26.53:329][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.12.31-02.26.53:845][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainWidget" FILE="../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset" SILENT=true
+[2021.12.31-02.26.53:879][710]LogSavePackage: Moving '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/MainWidget0208243045E7542ABCF0BC9EBA1BCC94.tmp' to '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset'
+[2021.12.31-02.26.53:888][710]AssetCheck: New page: Asset Save: MainWidget
+[2021.12.31-02.26.53:888][710]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.12.31-02.27.44:083][344]BlueprintLog: New page: Compile MainWidget
+[2021.12.31-02.27.44:113][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.12.31-02.27.44:775][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainWidget" FILE="../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset" SILENT=true
+[2021.12.31-02.27.44:810][406]LogSavePackage: Moving '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/MainWidgetAA3B6A8948496BB228F676ACE9ABFBED.tmp' to '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset'
+[2021.12.31-02.27.44:819][406]AssetCheck: New page: Asset Save: MainWidget
+[2021.12.31-02.27.44:820][406]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.12.31-02.27.47:749][748]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.31-02.27.47:760][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.31-02.27.47:760][748]PIE: New page: PIE session: MainMenuMap (Dec 30, 2021, 4:27:47 PM)
+[2021.12.31-02.27.47:760][748]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuMap
+[2021.12.31-02.27.47:760][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000520s)
+[2021.12.31-02.27.47:761][748]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.31-02.27.47:761][748]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F407991000), frame # 90748
+[2021.12.31-02.27.47:761][748]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F407889E40), frame # 90748
+[2021.12.31-02.27.47:761][748]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2021.12.31-02.27.47:761][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuMap.MainMenuMap to /Game/UEDPIE_0_MainMenuMap.MainMenuMap (0.001212s)
+[2021.12.31-02.27.47:780][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.12.31-02.27.47:780][748]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.31-02.27.47:781][748]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.31-02.27.47:781][748]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.31-02.27.47:781][748]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.31-02.27.47:781][748]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.31-02.27.47:781][748]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.31-02.27.47:781][748]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.31-02.27.47:781][748]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.31-02.27.47:781][748]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.31-02.27.47:781][748]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.31-02.27.47:783][748]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.31-02.27.47:783][748]LogAudioMixer: Display: 1: FrontRight
+[2021.12.31-02.27.47:799][748]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.31-02.27.47:799][748]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.31-02.27.47:799][748]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.31-02.27.47:799][748]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.31-02.27.47:799][748]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.31-02.27.47:808][748]LogInit: FAudioDevice initialized.
+[2021.12.31-02.27.47:842][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.27.47:842][748]LogLoad: Game class is 'MainMenuGM_C'
+[2021.12.31-02.27.47:842][748]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2021.12.30-21.27.47
+[2021.12.31-02.27.47:843][748]LogWorld: Bringing up level for play took: 0.000324
+[2021.12.31-02.27.47:843][748]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.12.31-02.27.47:847][748]PIE: Server logged in
+[2021.12.31-02.27.47:848][748]PIE: Play in editor total start time 0.089 seconds.
+[2021.12.31-02.29.04:539][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainWidget" FILE="../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset" SILENT=true
+[2021.12.31-02.29.04:572][852]LogSavePackage: Moving '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/MainWidgetDD26D52141DB8F2BA044C8826EA10FB1.tmp' to '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset'
+[2021.12.31-02.29.04:581][852]AssetCheck: New page: Asset Save: MainWidget
+[2021.12.31-02.29.04:581][852]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.12.31-02.29.08:665][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.29.08:665][323]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuMap
+[2021.12.31-02.29.08:665][323]LogSlate: Window 'NASA Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.12.31-02.29.08:667][323]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.31-02.29.08:667][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.29.08:672][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.31-02.29.08:675][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.29.08:703][323]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F407889E40), frame # 100323
+[2021.12.31-02.29.08:703][323]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F407991000), frame # 100323
+[2021.12.31-02.29.08:705][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.12.31-02.29.08:747][327]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.12.31-02.29.11:042][593]BlueprintLog: New page: Compile MainWidget
+[2021.12.31-02.29.11:074][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.12.31-02.29.11:544][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainWidget" FILE="../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset" SILENT=true
+[2021.12.31-02.29.11:578][637]LogSavePackage: Moving '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/MainWidget2DB75F894CC104D1B1F07A8842D7292D.tmp' to '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset'
+[2021.12.31-02.29.11:586][637]AssetCheck: New page: Asset Save: MainWidget
+[2021.12.31-02.29.11:586][637]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.12.31-02.29.12:617][757]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.31-02.29.12:625][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.31-02.29.12:625][757]PIE: New page: PIE session: MainMenuMap (Dec 30, 2021, 4:29:12 PM)
+[2021.12.31-02.29.12:625][757]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuMap
+[2021.12.31-02.29.12:626][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000554s)
+[2021.12.31-02.29.12:626][757]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.31-02.29.12:626][757]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F40FD33800), frame # 100757
+[2021.12.31-02.29.12:626][757]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F411FCB600), frame # 100757
+[2021.12.31-02.29.12:626][757]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2021.12.31-02.29.12:626][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuMap.MainMenuMap to /Game/UEDPIE_0_MainMenuMap.MainMenuMap (0.001282s)
+[2021.12.31-02.29.12:645][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.12.31-02.29.12:646][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.31-02.29.12:646][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.31-02.29.12:646][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.31-02.29.12:646][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.31-02.29.12:646][757]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.31-02.29.12:646][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.31-02.29.12:646][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.31-02.29.12:646][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.31-02.29.12:646][757]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.31-02.29.12:646][757]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.31-02.29.12:649][757]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.31-02.29.12:649][757]LogAudioMixer: Display: 1: FrontRight
+[2021.12.31-02.29.12:664][757]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.31-02.29.12:664][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.31-02.29.12:664][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.31-02.29.12:664][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.31-02.29.12:664][757]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.31-02.29.12:673][757]LogInit: FAudioDevice initialized.
+[2021.12.31-02.29.12:727][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.29.12:727][757]LogLoad: Game class is 'MainMenuGM_C'
+[2021.12.31-02.29.12:728][757]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2021.12.30-21.29.12
+[2021.12.31-02.29.12:728][757]LogWorld: Bringing up level for play took: 0.000408
+[2021.12.31-02.29.12:728][757]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.12.31-02.29.12:733][757]PIE: Server logged in
+[2021.12.31-02.29.12:733][757]PIE: Play in editor total start time 0.109 seconds.
+[2021.12.31-02.29.36:784][639]LogNet: Browse: /Game/NASA_Project_1
+[2021.12.31-02.29.36:784][639]LogLoad: LoadMap: /Game/NASA_Project_1
+[2021.12.31-02.29.36:784][639]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuMap
+[2021.12.31-02.29.36:785][639]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.31-02.29.36:785][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.29.36:830][639]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F411FCB600), frame # 103639
+[2021.12.31-02.29.36:830][639]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F40FD33800), frame # 103639
+[2021.12.31-02.29.36:832][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.12.31-02.29.36:941][639]LogAIModule: Creating AISystem for world NASA_Project_1
+[2021.12.31-02.29.36:941][639]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F40647FC00), frame # 103639
+[2021.12.31-02.29.36:941][639]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F4140AC400), frame # 103639
+[2021.12.31-02.29.36:941][639]LogLoad: Game class is 'GameModeBase'
+[2021.12.31-02.29.36:942][639]LogBlueprintUserMessages: [Collide_Blueprint_2] 0.0
+[2021.12.31-02.29.36:942][639]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NASA_Project_1.NASA_Project_1:PersistentLevel.Collide_Blueprint_2.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.12.31-02.29.36:942][639]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UEDPIE_0_NASA_Project_1.NASA_Project_1:PersistentLevel.Collide_Blueprint_2.Sphere' 
+[2021.12.31-02.29.36:942][639]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NASA_Project_1.NASA_Project_1:PersistentLevel.Collide_Blueprint_2.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.12.31-02.29.36:942][639]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UEDPIE_0_NASA_Project_1.NASA_Project_1:PersistentLevel.Collide_Blueprint_2.Sphere' 
+[2021.12.31-02.29.36:943][639]LogWorld: Bringing World /Game/UEDPIE_0_NASA_Project_1.NASA_Project_1 up for play (max tick rate 0) at 2021.12.30-21.29.36
+[2021.12.31-02.29.36:943][639]LogWorld: Bringing up level for play took: 0.001520
+[2021.12.31-02.29.36:944][639]LogBlueprintUserMessages: [Collide_Blueprint_C_0] 5000.0
+[2021.12.31-02.29.36:944][639]LogLoad: Took 0.158850 seconds to LoadMap(/Game/NASA_Project_1)
+[2021.12.31-02.29.36:968][640]LogBlueprintUserMessages: [Collide_Blueprint_C_0] 0.0
+[2021.12.31-02.29.39:659][958]LogSlate: Window 'NASA Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.12.31-02.29.39:662][958]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NASA_Project_1
+[2021.12.31-02.29.39:694][958]LogWorld: UWorld::CleanupWorld for NASA_Project_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.31-02.29.39:695][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.29.39:704][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.31-02.29.39:707][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.29.39:736][958]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F4140AC400), frame # 103958
+[2021.12.31-02.29.39:736][958]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F40647FC00), frame # 103958
+[2021.12.31-02.29.39:738][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.12.31-02.29.39:762][960]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.12.31-02.30.18:446][986]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Collide_Blueprint.Collide_Blueprint
+[2021.12.31-02.30.18:686][986]LogBlueprintUserMessages: [Collide_Blueprint_C_0] 0.0
+[2021.12.31-02.30.20:640][212]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Collide_Blueprint_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.12.31-02.30.20:640][212]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.Collide_Blueprint_C_0.Sphere' 
+[2021.12.31-02.30.20:640][212]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Collide_Blueprint_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.12.31-02.30.20:640][212]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.Collide_Blueprint_C_0.Sphere' 
+[2021.12.31-02.30.20:641][212]LogBlueprintUserMessages: [Collide_Blueprint_C_0] 0.0
+[2021.12.31-02.30.20:641][212]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Collide_Blueprint_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.12.31-02.30.20:641][212]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.Collide_Blueprint_C_0.Sphere' 
+[2021.12.31-02.30.20:641][212]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Collide_Blueprint_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.12.31-02.30.20:641][212]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.Collide_Blueprint_C_0.Sphere' 
+[2021.12.31-02.36.53:132][344]BlueprintLog: New page: Compile MainWidget
+[2021.12.31-02.36.53:164][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.12.31-02.36.53:717][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainWidget" FILE="../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset" SILENT=true
+[2021.12.31-02.36.53:751][391]LogSavePackage: Moving '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/MainWidget4E900A0F413472F029DE968083DD8107.tmp' to '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset'
+[2021.12.31-02.36.53:762][391]AssetCheck: New page: Asset Save: MainWidget
+[2021.12.31-02.36.53:762][391]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.12.31-02.42.05:517][321]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2021.12.31-02.42.05:761][321]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.12.31-02.42.05:761][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.42.06:096][322]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2021.12.31-02.43.12:076][152]BlueprintLog: New page: Compile MainWidget
+[2021.12.31-02.43.12:133][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.12.31-02.43.13:367][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainWidget" FILE="../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset" SILENT=true
+[2021.12.31-02.43.13:405][283]LogSavePackage: Moving '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/MainWidgetE5D02D414AD35C500FF8E39318F390BE.tmp' to '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset'
+[2021.12.31-02.43.13:415][283]AssetCheck: New page: Asset Save: MainWidget
+[2021.12.31-02.43.13:415][283]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.12.31-02.43.37:777][157]BlueprintLog: New page: Compile MainWidget
+[2021.12.31-02.43.37:818][157]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.12.31-02.43.38:719][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainWidget" FILE="../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset" SILENT=true
+[2021.12.31-02.43.38:753][248]LogSavePackage: Moving '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/MainWidgetD78EC1C546C9C37144C7BF94A7821B56.tmp' to '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset'
+[2021.12.31-02.43.38:763][248]AssetCheck: New page: Asset Save: MainWidget
+[2021.12.31-02.43.38:763][248]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.12.31-02.43.40:317][420]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.31-02.43.40:325][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.31-02.43.40:325][420]PIE: New page: PIE session: MainMenuMap (Dec 30, 2021, 4:43:40 PM)
+[2021.12.31-02.43.40:325][420]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuMap
+[2021.12.31-02.43.40:326][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000535s)
+[2021.12.31-02.43.40:326][420]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.31-02.43.40:326][420]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F3F8B81A00), frame # 163420
+[2021.12.31-02.43.40:326][420]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F4116AA480), frame # 163420
+[2021.12.31-02.43.40:326][420]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2021.12.31-02.43.40:326][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuMap.MainMenuMap to /Game/UEDPIE_0_MainMenuMap.MainMenuMap (0.001231s)
+[2021.12.31-02.43.40:350][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.12.31-02.43.40:351][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.31-02.43.40:351][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.31-02.43.40:351][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.31-02.43.40:351][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.31-02.43.40:351][420]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.31-02.43.40:351][420]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.31-02.43.40:351][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.31-02.43.40:351][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.31-02.43.40:351][420]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.31-02.43.40:351][420]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.31-02.43.40:354][420]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.31-02.43.40:354][420]LogAudioMixer: Display: 1: FrontRight
+[2021.12.31-02.43.40:370][420]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.31-02.43.40:370][420]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.31-02.43.40:370][420]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.31-02.43.40:370][420]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.31-02.43.40:370][420]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.31-02.43.40:379][420]LogInit: FAudioDevice initialized.
+[2021.12.31-02.43.40:401][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.43.40:401][420]LogLoad: Game class is 'MainMenuGM_C'
+[2021.12.31-02.43.40:402][420]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2021.12.30-21.43.40
+[2021.12.31-02.43.40:402][420]LogWorld: Bringing up level for play took: 0.000300
+[2021.12.31-02.43.40:402][420]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.12.31-02.43.40:407][420]PIE: Server logged in
+[2021.12.31-02.43.40:407][420]PIE: Play in editor total start time 0.083 seconds.
+[2021.12.31-02.44.02:995][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.44.02:995][ 83]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuMap
+[2021.12.31-02.44.02:995][ 83]LogSlate: Window 'NASA Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.12.31-02.44.02:996][ 83]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.31-02.44.02:996][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.44.03:001][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.31-02.44.03:005][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.44.03:037][ 83]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F4116AA480), frame # 166083
+[2021.12.31-02.44.03:037][ 83]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F3F8B81A00), frame # 166083
+[2021.12.31-02.44.03:040][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.12.31-02.44.03:068][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.12.31-02.50.50:612][149]BlueprintLog: New page: Compile MainWidget
+[2021.12.31-02.50.50:651][149]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.12.31-02.50.51:457][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainWidget" FILE="../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset" SILENT=true
+[2021.12.31-02.50.51:494][232]LogSavePackage: Moving '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/MainWidget15B2A5AB4CEF29EC9E7A5CB37CEFEBB9.tmp' to '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset'
+[2021.12.31-02.50.51:503][232]AssetCheck: New page: Asset Save: MainWidget
+[2021.12.31-02.50.51:503][232]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.12.31-02.52.30:815][613]BlueprintLog: New page: Compile MainWidget
+[2021.12.31-02.52.30:853][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.12.31-02.52.31:625][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainWidget" FILE="../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset" SILENT=true
+[2021.12.31-02.52.31:660][686]LogSavePackage: Moving '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/MainWidgetDB5F508244D4F5616F52658FAB34C18E.tmp' to '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset'
+[2021.12.31-02.52.31:669][686]AssetCheck: New page: Asset Save: MainWidget
+[2021.12.31-02.52.31:669][686]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.12.31-02.52.32:872][823]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.31-02.52.32:880][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.31-02.52.32:880][823]PIE: New page: PIE session: MainMenuMap (Dec 30, 2021, 4:52:32 PM)
+[2021.12.31-02.52.32:880][823]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuMap
+[2021.12.31-02.52.32:881][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000550s)
+[2021.12.31-02.52.32:882][823]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.31-02.52.32:882][823]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F42E6D6E00), frame # 202823
+[2021.12.31-02.52.32:882][823]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F40F63A840), frame # 202823
+[2021.12.31-02.52.32:882][823]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2021.12.31-02.52.32:882][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuMap.MainMenuMap to /Game/UEDPIE_0_MainMenuMap.MainMenuMap (0.001284s)
+[2021.12.31-02.52.32:906][823]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.12.31-02.52.32:907][823]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.31-02.52.32:907][823]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.31-02.52.32:907][823]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.31-02.52.32:907][823]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.31-02.52.32:907][823]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.31-02.52.32:907][823]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.31-02.52.32:907][823]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.31-02.52.32:907][823]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.31-02.52.32:907][823]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.31-02.52.32:907][823]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.31-02.52.32:910][823]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.31-02.52.32:910][823]LogAudioMixer: Display: 1: FrontRight
+[2021.12.31-02.52.32:926][823]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.31-02.52.32:926][823]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.31-02.52.32:926][823]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.31-02.52.32:926][823]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.31-02.52.32:926][823]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.31-02.52.32:935][823]LogInit: FAudioDevice initialized.
+[2021.12.31-02.52.32:973][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.52.32:973][823]LogLoad: Game class is 'MainMenuGM_C'
+[2021.12.31-02.52.32:974][823]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2021.12.30-21.52.32
+[2021.12.31-02.52.32:974][823]LogWorld: Bringing up level for play took: 0.000448
+[2021.12.31-02.52.32:974][823]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.12.31-02.52.32:979][823]PIE: Server logged in
+[2021.12.31-02.52.32:980][823]PIE: Play in editor total start time 0.099 seconds.
+[2021.12.31-02.52.49:625][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.52.49:625][804]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuMap
+[2021.12.31-02.52.49:625][804]LogSlate: Window 'NASA Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.12.31-02.52.49:627][804]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.31-02.52.49:627][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.52.49:630][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.31-02.52.49:634][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.52.49:666][804]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F40F63A840), frame # 204804
+[2021.12.31-02.52.49:666][804]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F42E6D6E00), frame # 204804
+[2021.12.31-02.52.49:668][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.12.31-02.52.49:709][806]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.12.31-02.53.50:151][884]BlueprintLog: New page: Compile MainWidget
+[2021.12.31-02.53.50:187][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.12.31-02.53.50:775][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainWidget" FILE="../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset" SILENT=true
+[2021.12.31-02.53.50:812][938]LogSavePackage: Moving '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/MainWidgetA03083F545B2456888A4EFA158AF781E.tmp' to '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset'
+[2021.12.31-02.53.50:821][938]AssetCheck: New page: Asset Save: MainWidget
+[2021.12.31-02.53.50:821][938]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.12.31-02.53.51:990][ 68]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.31-02.53.51:998][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.31-02.53.51:998][ 68]PIE: New page: PIE session: MainMenuMap (Dec 30, 2021, 4:53:51 PM)
+[2021.12.31-02.53.51:998][ 68]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuMap
+[2021.12.31-02.53.51:998][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000532s)
+[2021.12.31-02.53.51:999][ 68]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.31-02.53.51:999][ 68]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F4665BD400), frame # 211068
+[2021.12.31-02.53.51:999][ 68]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F44507FC40), frame # 211068
+[2021.12.31-02.53.51:999][ 68]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2021.12.31-02.53.51:999][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuMap.MainMenuMap to /Game/UEDPIE_0_MainMenuMap.MainMenuMap (0.001226s)
+[2021.12.31-02.53.52:023][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.12.31-02.53.52:024][ 68]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.31-02.53.52:024][ 68]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.31-02.53.52:024][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.31-02.53.52:024][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.31-02.53.52:024][ 68]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.31-02.53.52:024][ 68]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.31-02.53.52:024][ 68]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.31-02.53.52:024][ 68]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.31-02.53.52:024][ 68]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.31-02.53.52:024][ 68]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.31-02.53.52:027][ 68]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.31-02.53.52:027][ 68]LogAudioMixer: Display: 1: FrontRight
+[2021.12.31-02.53.52:042][ 68]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.31-02.53.52:042][ 68]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.31-02.53.52:042][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.31-02.53.52:042][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.31-02.53.52:042][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.31-02.53.52:051][ 68]LogInit: FAudioDevice initialized.
+[2021.12.31-02.53.52:074][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.53.52:074][ 68]LogLoad: Game class is 'MainMenuGM_C'
+[2021.12.31-02.53.52:075][ 68]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2021.12.30-21.53.52
+[2021.12.31-02.53.52:075][ 68]LogWorld: Bringing up level for play took: 0.000378
+[2021.12.31-02.53.52:075][ 68]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.12.31-02.53.52:081][ 68]PIE: Server logged in
+[2021.12.31-02.53.52:081][ 68]PIE: Play in editor total start time 0.084 seconds.
+[2021.12.31-02.53.57:065][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.53.57:066][664]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuMap
+[2021.12.31-02.53.57:066][664]LogSlate: Window 'NASA Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.12.31-02.53.57:104][664]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.31-02.53.57:104][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.53.57:111][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.31-02.53.57:115][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.53.57:146][664]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F44507FC40), frame # 211664
+[2021.12.31-02.53.57:146][664]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F4665BD400), frame # 211664
+[2021.12.31-02.53.57:149][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.12.31-02.53.57:167][665]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.12.31-02.54.15:474][829]BlueprintLog: New page: Compile MainWidget
+[2021.12.31-02.54.15:510][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.12.31-02.54.15:957][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainWidget" FILE="../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset" SILENT=true
+[2021.12.31-02.54.15:992][865]LogSavePackage: Moving '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/MainWidget8F593E5D4A470858A34E52B8DA7090B3.tmp' to '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset'
+[2021.12.31-02.54.16:002][865]AssetCheck: New page: Asset Save: MainWidget
+[2021.12.31-02.54.16:002][865]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.12.31-02.54.24:157][817]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.31-02.54.24:165][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.31-02.54.24:165][817]PIE: New page: PIE session: MainMenuMap (Dec 30, 2021, 4:54:24 PM)
+[2021.12.31-02.54.24:165][817]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuMap
+[2021.12.31-02.54.24:166][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000574s)
+[2021.12.31-02.54.24:166][817]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.31-02.54.24:166][817]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F466556C00), frame # 214817
+[2021.12.31-02.54.24:166][817]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F466544400), frame # 214817
+[2021.12.31-02.54.24:167][817]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2021.12.31-02.54.24:167][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuMap.MainMenuMap to /Game/UEDPIE_0_MainMenuMap.MainMenuMap (0.001311s)
+[2021.12.31-02.54.24:190][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.12.31-02.54.24:192][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.31-02.54.24:192][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.31-02.54.24:192][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.31-02.54.24:192][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.31-02.54.24:192][817]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.31-02.54.24:192][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.31-02.54.24:192][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.31-02.54.24:192][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.31-02.54.24:192][817]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.31-02.54.24:192][817]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.31-02.54.24:195][817]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.31-02.54.24:195][817]LogAudioMixer: Display: 1: FrontRight
+[2021.12.31-02.54.24:209][817]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.31-02.54.24:210][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.31-02.54.24:210][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.31-02.54.24:210][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.31-02.54.24:210][817]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.31-02.54.24:219][817]LogInit: FAudioDevice initialized.
+[2021.12.31-02.54.24:257][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.54.24:257][817]LogLoad: Game class is 'MainMenuGM_C'
+[2021.12.31-02.54.24:258][817]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2021.12.30-21.54.24
+[2021.12.31-02.54.24:258][817]LogWorld: Bringing up level for play took: 0.000353
+[2021.12.31-02.54.24:258][817]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.12.31-02.54.24:263][817]PIE: Server logged in
+[2021.12.31-02.54.24:263][817]PIE: Play in editor total start time 0.099 seconds.
+[2021.12.31-02.54.29:874][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.54.29:875][487]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuMap
+[2021.12.31-02.54.29:875][487]LogSlate: Window 'NASA Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.12.31-02.54.29:914][487]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.31-02.54.29:914][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.54.29:921][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.31-02.54.29:925][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.54.29:957][487]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F466544400), frame # 215487
+[2021.12.31-02.54.29:957][487]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F466556C00), frame # 215487
+[2021.12.31-02.54.29:959][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.12.31-02.54.29:978][488]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.12.31-02.54.35:292][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainWidget" FILE="../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset" SILENT=true
+[2021.12.31-02.54.35:327][110]LogSavePackage: Moving '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/MainWidget2024867948249EE9EF7FEEB2049FF14E.tmp' to '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset'
+[2021.12.31-02.54.35:336][110]AssetCheck: New page: Asset Save: MainWidget
+[2021.12.31-02.54.35:336][110]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.12.31-02.54.36:050][194]BlueprintLog: New page: Compile MainWidget
+[2021.12.31-02.54.36:089][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.12.31-02.54.36:642][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainWidget" FILE="../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset" SILENT=true
+[2021.12.31-02.54.36:680][243]LogSavePackage: Moving '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Saved/MainWidget492B3A194F6B6A167ABB24813C17288F.tmp' to '../../../../../../Users/Jayden/OneDrive/Documents/GitHub/NASA/NASA_Project_1/Content/MainWidget.uasset'
+[2021.12.31-02.54.36:688][243]AssetCheck: New page: Asset Save: MainWidget
+[2021.12.31-02.54.36:688][243]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.12.31-02.54.37:208][300]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.31-02.54.37:216][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.31-02.54.37:216][300]PIE: New page: PIE session: MainMenuMap (Dec 30, 2021, 4:54:37 PM)
+[2021.12.31-02.54.37:216][300]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuMap
+[2021.12.31-02.54.37:217][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000535s)
+[2021.12.31-02.54.37:217][300]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.31-02.54.37:217][300]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F38ABC0C00), frame # 216300
+[2021.12.31-02.54.37:218][300]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F461C0DE40), frame # 216300
+[2021.12.31-02.54.37:218][300]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2021.12.31-02.54.37:218][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuMap.MainMenuMap to /Game/UEDPIE_0_MainMenuMap.MainMenuMap (0.001210s)
+[2021.12.31-02.54.37:241][300]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.12.31-02.54.37:242][300]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.31-02.54.37:242][300]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.31-02.54.37:242][300]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.31-02.54.37:242][300]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.31-02.54.37:242][300]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.31-02.54.37:242][300]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.31-02.54.37:242][300]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.31-02.54.37:242][300]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.31-02.54.37:242][300]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.31-02.54.37:242][300]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.31-02.54.37:245][300]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.31-02.54.37:245][300]LogAudioMixer: Display: 1: FrontRight
+[2021.12.31-02.54.37:260][300]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.31-02.54.37:260][300]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.31-02.54.37:260][300]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.31-02.54.37:260][300]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.31-02.54.37:261][300]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.31-02.54.37:270][300]LogInit: FAudioDevice initialized.
+[2021.12.31-02.54.37:324][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.31-02.54.37:324][300]LogLoad: Game class is 'MainMenuGM_C'
+[2021.12.31-02.54.37:325][300]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2021.12.30-21.54.37
+[2021.12.31-02.54.37:325][300]LogWorld: Bringing up level for play took: 0.000378
+[2021.12.31-02.54.37:325][300]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.12.31-02.54.37:330][300]PIE: Server logged in
+[2021.12.31-02.54.37:331][300]PIE: Play in editor total start time 0.115 seconds.
+[2021.12.31-02.55.01:579][205]LogNet: Browse: /Game/NASA_Project_1
+[2021.12.31-02.55.01:579][205]LogLoad: LoadMap: /Game/NASA_Project_1
+[2021.12.31-02.55.01:579][205]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuMap
+[2021.12.31-02.55.01:580][205]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.31-02.55.01:580][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.55.01:634][205]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F461C0DE40), frame # 219205
+[2021.12.31-02.55.01:634][205]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F38ABC0C00), frame # 219205
+[2021.12.31-02.55.01:636][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.12.31-02.55.01:642][205]LogAIModule: Creating AISystem for world NASA_Project_1
+[2021.12.31-02.55.01:642][205]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F460C03000), frame # 219205
+[2021.12.31-02.55.01:642][205]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F461C0DBC0), frame # 219205
+[2021.12.31-02.55.01:642][205]LogLoad: Game class is 'GameModeBase'
+[2021.12.31-02.55.01:644][205]LogBlueprintUserMessages: [Collide_Blueprint_2] 0.0
+[2021.12.31-02.55.01:644][205]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NASA_Project_1.NASA_Project_1:PersistentLevel.Collide_Blueprint_2.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.12.31-02.55.01:644][205]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UEDPIE_0_NASA_Project_1.NASA_Project_1:PersistentLevel.Collide_Blueprint_2.Sphere' 
+[2021.12.31-02.55.01:644][205]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NASA_Project_1.NASA_Project_1:PersistentLevel.Collide_Blueprint_2.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.12.31-02.55.01:644][205]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UEDPIE_0_NASA_Project_1.NASA_Project_1:PersistentLevel.Collide_Blueprint_2.Sphere' 
+[2021.12.31-02.55.01:644][205]LogWorld: Bringing World /Game/UEDPIE_0_NASA_Project_1.NASA_Project_1 up for play (max tick rate 0) at 2021.12.30-21.55.01
+[2021.12.31-02.55.01:644][205]LogWorld: Bringing up level for play took: 0.001675
+[2021.12.31-02.55.01:645][205]LogBlueprintUserMessages: [Collide_Blueprint_C_0] 5000.0
+[2021.12.31-02.55.01:645][205]LogLoad: Took 0.065942 seconds to LoadMap(/Game/NASA_Project_1)
+[2021.12.31-02.55.04:963][602]LogSlate: Window 'NASA Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.12.31-02.55.04:966][602]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NASA_Project_1
+[2021.12.31-02.55.05:004][602]LogWorld: UWorld::CleanupWorld for NASA_Project_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.31-02.55.05:004][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.55.05:013][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.31-02.55.05:017][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.31-02.55.05:050][602]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F461C0DBC0), frame # 219602
+[2021.12.31-02.55.05:050][602]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F460C03000), frame # 219602
+[2021.12.31-02.55.05:052][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.12.31-02.55.05:069][603]LogPlayLevel: Display: Destroying online subsystem :Context_18
