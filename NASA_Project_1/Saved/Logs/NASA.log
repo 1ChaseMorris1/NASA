@@ -1654,3 +1654,130 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.11-16.07.33:468][790]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF8C3924B-4505-CAE3-0DF4-DD8B0FDD9A67%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=7ec4013d43cec817d55770a2c16903b2%7C08d24886948a425d8875ad75598cd873%7C50f05884-b7a0-4aa3-b88a-6a6cb5f9f875&AppEnvironment=datacollector-source&UploadType=eteventstream
 [2022.04.11-16.07.58:118][887]LogSlate: Window 'Output Log' being destroyed
 [2022.04.11-16.07.58:135][887]LogSlate: Window 'Output Log' being destroyed
+[2022.04.11-16.09.34:129][206]LogHttp: Warning: 000001C8B8163200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF8C3924B-4505-CAE3-0DF4-DD8B0FDD9A67%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=7ec4013d43cec817d55770a2c16903b2%7C08d24886948a425d8875ad75598cd873%7C50f05884-b7a0-4aa3-b88a-6a6cb5f9f875&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.11-16.09.34:129][206]LogHttp: Warning: 000001C8B8163200: request failed, libcurl error: 35 (SSL connect error)
+[2022.04.11-16.09.34:129][206]LogHttp: Warning: 000001C8B8163200: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.11-16.09.34:129][206]LogHttp: Warning: 000001C8B8163200: libcurl info message cache 1 (  Trying 34.200.194.241...)
+[2022.04.11-16.09.34:129][206]LogHttp: Warning: 000001C8B8163200: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.11-16.09.34:129][206]LogHttp: Warning: 000001C8B8163200: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.200.194.241) port 443 (#5))
+[2022.04.11-16.09.34:129][206]LogHttp: Warning: 000001C8B8163200: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.11-16.09.34:129][206]LogHttp: Warning: 000001C8B8163200: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.11-16.09.34:129][206]LogHttp: Warning: 000001C8B8163200: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.11-16.09.34:129][206]LogHttp: Warning: 000001C8B8163200: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2022.04.11-16.09.34:129][206]LogHttp: Warning: 000001C8B8163200: libcurl info message cache 8 (Closing connection 5)
+[2022.04.11-16.09.34:129][206]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF8C3924B-4505-CAE3-0DF4-DD8B0FDD9A67%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=7ec4013d43cec817d55770a2c16903b2%7C08d24886948a425d8875ad75598cd873%7C50f05884-b7a0-4aa3-b88a-6a6cb5f9f875&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2022.04.11-16.10.07:394][314]LogSlate: Window 'Spaceship_Blueprint' being destroyed
+[2022.04.11-16.10.07:526][314]LogSlate: Window 'Spaceship_Blueprint' being destroyed
+[2022.04.11-16.10.07:569][314]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-16.10.07:570][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-16.10.07:743][314]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-16.10.07:743][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-16.10.07:896][314]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-16.10.07:896][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-16.10.08:772][336]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2022.04.11-16.10.10:331][336]LogSlate: Window 'Save Content' being destroyed
+[2022.04.11-16.10.10:422][336]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2022.04.11-16.10.10:504][336]LogSavePackage: Moving '../../../../../../Users/campbell59763/Documents/GitHub/NASA/NASA_Project_1/Saved/NASA_Project_18BE69DAE464BFA067DC528A6325F8B52.tmp' to '../../../../../../Users/campbell59763/Documents/GitHub/NASA/NASA_Project_1/Content/NASA_Project_1.umap'
+[2022.04.11-16.10.10:511][336]LogFileHelpers: Saving map 'NASA_Project_1' took 0.162
+[2022.04.11-16.10.10:569][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Spaceship_Blueprint" FILE="../../../../../../Users/campbell59763/Documents/GitHub/NASA/NASA_Project_1/Content/Spaceship_Blueprint.uasset" SILENT=true
+[2022.04.11-16.10.10:646][336]LogSavePackage: Moving '../../../../../../Users/campbell59763/Documents/GitHub/NASA/NASA_Project_1/Saved/Spaceship_Blueprint370C17184E0A7DDF703398A91B33E2D5.tmp' to '../../../../../../Users/campbell59763/Documents/GitHub/NASA/NASA_Project_1/Content/Spaceship_Blueprint.uasset'
+[2022.04.11-16.10.10:844][336]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-16.10.10:844][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-16.10.10:853][336]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-16.10.10:853][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-16.10.10:895][336]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.04.11-16.10.10:895][336]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-16.10.10:895][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-16.10.11:065][336]LogSlate: Window 'NASA - Unreal Editor' being destroyed
+[2022.04.11-16.10.11:083][336]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.04.11-16.10.11:488][336]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.11-16.10.11:488][336]LogContentValidation: Display: Validating World /Game/NASA_Project_1.NASA_Project_1
+[2022.04.11-16.10.11:488][336]LogContentValidation: Display: Validating Blueprint /Game/Spaceship_Blueprint.Spaceship_Blueprint
+[2022.04.11-16.10.11:512][337]Cmd: QUIT_EDITOR
+[2022.04.11-16.10.11:512][337]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.04.11-16.10.11:695][337]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.04.11-16.10.12:927][337]LogExit: Preparing to exit.
+[2022.04.11-16.10.13:970][337]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-16.10.13:976][337]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-16.10.13:982][337]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-16.10.13:988][337]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-16.10.13:994][337]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-16.10.13:999][337]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-16.10.14:253][337]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.04.11-16.10.14:376][337]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-16.10.14:376][337]LogExit: Editor shut down
+[2022.04.11-16.10.14:376][337]LogExit: Transaction tracking system shut down
+[2022.04.11-16.10.15:318][337]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001C883C00380), frame # 21337
+[2022.04.11-16.10.15:318][337]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C883B351C0), frame # 21337
+[2022.04.11-16.10.15:320][337]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C883B89E00), frame # 21337
+[2022.04.11-16.10.16:292][337]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C8ED7C79C0), frame # 21337
+[2022.04.11-16.10.16:292][337]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C8FFFE9C00), frame # 21337
+[2022.04.11-16.10.16:427][337]LogExit: Object subsystem successfully closed.
+[2022.04.11-16.10.16:652][337]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.04.11-16.10.17:960][337]LogModuleManager: Shutting down and abandoning module UATHelper (822)
+[2022.04.11-16.10.17:960][337]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (820)
+[2022.04.11-16.10.17:961][337]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (818)
+[2022.04.11-16.10.17:961][337]LogModuleManager: Shutting down and abandoning module Voice (816)
+[2022.04.11-16.10.17:970][337]LogModuleManager: Shutting down and abandoning module SequencerWidgets (814)
+[2022.04.11-16.10.17:970][337]LogModuleManager: Shutting down and abandoning module BlueprintGraph (812)
+[2022.04.11-16.10.17:970][337]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (810)
+[2022.04.11-16.10.17:970][337]LogModuleManager: Shutting down and abandoning module SceneOutliner (808)
+[2022.04.11-16.10.17:970][337]LogModuleManager: Shutting down and abandoning module AddContentDialog (806)
+[2022.04.11-16.10.17:977][337]LogModuleManager: Shutting down and abandoning module WidgetCarousel (805)
+[2022.04.11-16.10.17:977][337]LogModuleManager: Shutting down and abandoning module EditorWidgets (802)
+[2022.04.11-16.10.17:977][337]LogModuleManager: Shutting down and abandoning module CollectionManager (800)
+[2022.04.11-16.10.17:987][337]LogModuleManager: Shutting down and abandoning module StatsViewer (798)
+[2022.04.11-16.10.18:046][337]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (796)
+[2022.04.11-16.10.18:046][337]LogModuleManager: Shutting down and abandoning module FoliageEdit (794)
+[2022.04.11-16.10.18:073][337]LogModuleManager: Shutting down and abandoning module LandscapeEditor (792)
+[2022.04.11-16.10.18:089][337]LogModuleManager: Shutting down and abandoning module MeshPaintMode (790)
+[2022.04.11-16.10.18:091][337]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (788)
+[2022.04.11-16.10.18:091][337]LogModuleManager: Shutting down and abandoning module ActorPickerMode (786)
+[2022.04.11-16.10.18:091][337]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (784)
+[2022.04.11-16.10.18:100][337]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (782)
+[2022.04.11-16.10.18:108][337]LogModuleManager: Shutting down and abandoning module AutomationWorker (780)
+[2022.04.11-16.10.18:113][337]LogModuleManager: Shutting down and abandoning module SteamVREditor (778)
+[2022.04.11-16.10.18:113][337]LogModuleManager: Shutting down and abandoning module OculusMR (776)
+[2022.04.11-16.10.18:119][337]LogModuleManager: Shutting down and abandoning module GooglePADEditor (774)
+[2022.04.11-16.10.18:119][337]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (772)
+[2022.04.11-16.10.18:119][337]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (770)
+[2022.04.11-16.10.18:140][337]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (768)
+[2022.04.11-16.10.18:143][337]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (766)
+[2022.04.11-16.10.18:154][337]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (764)
+[2022.04.11-16.10.18:159][337]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (762)
+[2022.04.11-16.10.18:159][337]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (760)
+[2022.04.11-16.10.18:159][337]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (758)
+[2022.04.11-16.10.18:159][337]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (756)
+[2022.04.11-16.10.18:159][337]LogModuleManager: Shutting down and abandoning module WebMMedia (754)
+[2022.04.11-16.10.18:165][337]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (752)
+[2022.04.11-16.10.18:174][337]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (750)
+[2022.04.11-16.10.18:184][337]LogModuleManager: Shutting down and abandoning module SequenceRecorder (749)
+[2022.04.11-16.10.18:184][337]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (746)
+[2022.04.11-16.10.18:184][337]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (744)
+[2022.04.11-16.10.18:184][337]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (742)
+[2022.04.11-16.10.18:184][337]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (740)
+[2022.04.11-16.10.18:185][337]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (738)
+[2022.04.11-16.10.18:185][337]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (736)
+[2022.04.11-16.10.18:185][337]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (734)
+[2022.04.11-16.10.18:185][337]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (732)
+[2022.04.11-16.10.18:185][337]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (730)
+[2022.04.11-16.10.18:185][337]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (728)
+[2022.04.11-16.10.18:185][337]LogModuleManager: Shutting down and abandoning module PlanarCut (726)
+[2022.04.11-16.10.18:194][337]LogModuleManager: Shutting down and abandoning module CharacterAI (724)
+[2022.04.11-16.10.18:194][337]LogModuleManager: Shutting down and abandoning module TextureAlignMode (722)
+[2022.04.11-16.10.18:194][337]LogModuleManager: Shutting down and abandoning module BspMode (720)
+[2022.04.11-16.10.18:203][337]LogModuleManager: Shutting down and abandoning module PlacementMode (719)
+[2022.04.11-16.10.18:203][337]LogModuleManager: Shutting down and abandoning module GeometryMode (716)
+[2022.04.11-16.10.18:203][337]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (714)
+[2022.04.11-16.10.18:210][337]LogModuleManager: Shutting down and abandoning module SmartSnapping (712)
+[2022.04.11-16.10.18:210][337]LogModuleManager: Shutting down and abandoning module SessionServices (710)
+[2022.04.11-16.10.18:210][337]LogModuleManager: Shutting down and abandoning module MeshPaint (708)
+[2022.04.11-16.10.18:230][337]LogModuleManager: Shutting down and abandoning module ViewportSnapping (706)
+[2022.04.11-16.10.18:230][337]LogModuleManager: Shutting down and abandoning module ViewportInteraction (704)
+[2022.04.11-16.10.18:230][337]LogModuleManager: Shutting down and abandoning module ClothPainter (702)
+[2022.04.11-16.10.18:354][337]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (701)
+[2022.04.11-16.10.18:418][337]LogModuleManager: Shutting down and abandoning module LogVisualizer (698)
+[2022.04.11-16.10.18:433][337]LogModuleManager: Shutting down and abandoning module IntroTutorials (696)
+[2022.04.11-16.10.18:444][337]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (695)
+[2022.04.11-16.10.18:522][337]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (692)
+[2022.04.11-16.10.18:522][337]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (690)
